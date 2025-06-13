@@ -1,0 +1,6 @@
+mlflow
+fastapi
+uvicorn
+pandas
+lightgbm
+scikit-learn
